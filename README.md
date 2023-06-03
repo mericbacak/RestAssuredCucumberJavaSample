@@ -1,1 +1,1 @@
-# RestAssuredCucumberSample
+# RestAssuredCucumberJavaSample
